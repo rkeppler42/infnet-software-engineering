@@ -1,4 +1,3 @@
-```markdown
 # 🐍 Introdução à Programação com Python
 
 Foundational Python course covering core programming concepts through hands-on exercises.
@@ -26,4 +25,3 @@ Foundational Python course covering core programming concepts through hands-on e
 - Monte Carlo method to estimate π
 - Numerical integration (Riemann sum)
 - 2D grid game with boundary checking and game loop
-```
