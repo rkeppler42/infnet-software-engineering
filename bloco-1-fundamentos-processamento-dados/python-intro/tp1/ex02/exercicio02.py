@@ -1,0 +1,1 @@
+print("Olá Mundo! Bem-vindo ao Cinema Digital")
