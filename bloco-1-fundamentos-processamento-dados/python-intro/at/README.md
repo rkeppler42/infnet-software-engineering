@@ -1,55 +1,71 @@
-# TP3 – Introdução à Programação com Python
+# AT – Introdução à Programação com Python
 
-Performance Test 3. Covers conditionals, logical operators, and nested decision structures.
+Assessment (graded). Covers all topics from the trimester: variables, strings, conditionals, loops, functions, and algorithms.
 
 ---
 
 ## Exercises
 
-### Ex01 – Simple Conditional (Age Verification)
-Check if a customer is of legal age to complete a purchase.
+### Ex01 – Arithmetic Operations (Unit Cost Calculator)
 
-### Ex02 – Comparison (Student Grade)
-Determine if a student is approved or failed based on their final grade and the minimum passing grade.
+Calculate the total production cost of a batch and the cost per unit given two components, their quantities, a fixed cost, and the total number of units produced.
 
-### Ex03 – Nested Conditionals (Fever Detection)
-Classify a patient's temperature as normal, febrile state, or fever based on defined thresholds.
+### Ex02 – String Formatting (Patient Registration)
 
-### Ex04 – Chained Conditionals (Package Weight)
-Check if a package is within the weight limit, close to it, or over it.
+Capture a patient's name, age, and temperature and display them in a standardized single-line format with separators.
 
-### Ex05 – String Search and Conditionals (Expense Categorizer)
-Classify an expense as Essential, Investment, or Leisure based on keywords in its description.
+### Ex03 – Lists (Sales Statistics)
 
-### Ex06 – Logical Operators (Game Skill Unlock)
-Determine if a game character meets the minimum strength and agility requirements to unlock a special ability.
+Calculate the total and average of a list of transaction values.
 
-### Ex07 – Chained Conditionals (Progressive Discount)
-Calculate the final price of a purchase applying a progressive discount and an optional additional discount for card payments.
+### Ex04 – Functions and Recursion (Factorial Calculator)
 
-### Ex08 – Logical Operators (Job Candidate Screening)
-Determine if a candidate is eligible for an interview based on years of experience, education level, and Python proficiency.
+Implement a function that calculates the factorial of a non-negative integer, handling the base case of 0.
 
-### Ex09 – Nested Conditionals (Text Adventure Game)
-Simulate a branching cave exploration game where each path requires different inputs and leads to different outcomes.
+### Ex05 – Functions and String Formatting (Time Converter)
 
-### Ex10 – Chained Conditionals (Game Score and Status)
-Calculate a player's final score using tiered rules for enemies, objectives, deaths, and time, then determine if they achieve Elite Player status.
+Convert a duration in minutes to hours and minutes inside a function, with correct singular/plural formatting for both units.
 
-### Ex11 – Logical Operators (Password Strength Classifier)
-Classify a password as Secure or Weak based on length, special characters, and digit presence.
+### Ex06 – Loops and Conditionals (Even/Odd Counter)
 
-### Ex12 – Chained Conditionals (Weather Alert System)
-Determine the meteorological alert level of a region based on wind speed, temperature, humidity, and precipitation type.
+Continuously read integers from the user until "SAIR" is entered, then display the count of even and odd numbers.
 
-### Ex13 – Conditionals (Basic Calculator)
-Perform one of four arithmetic operations on two numbers based on user input, with protection against division by zero.
+### Ex07 – Functions and Loops (Limit Approximation)
 
-### Ex14 – Logical Operators (Blood Type Compatibility)
-Check if a blood donor is compatible with a recipient based on blood type (ABO) and Rh factor.
+Approximate the limit of y = (x² - 1) / (x - 1) as x approaches 1 from the left, using a user-defined number of steps.
 
-### Ex15 – Complex Conditionals (The Ancient's Gate)
-Evaluate a player's eligibility to pass through a gate by applying a set of arbitrary but precise nested rules across four test results.
+### Ex08 – Loops and Lists (Ball Velocity Calculator)
 
-### Ex16 – Nested Conditionals (KYC Registration System)
-Process a customer registration by applying different validation rules for individuals (CPF) and companies (CNPJ), with fallback paths for incomplete data.
+Calculate frame-by-frame velocity of a ball from a list of positions, stopping the loop when velocity drops below 40 m/s.
+
+### Ex09 – Functions, Loops and Math (Numerical Integration)
+
+Approximate the area under y = sin(x) + 2 over 10 meters using the Riemann sum method, then calculate the number of paint cans needed.
+
+### Ex10 – Functions and Conditionals (Compound Interest Calculator)
+
+Calculate the final amount of an investment with compound interest, applying a penalty for short durations and a bonus for long ones.
+
+### Ex11 – Functions and Lists (Warehouse Inventory Intersection)
+
+Implement a function that returns the intersection of two lists of product codes from two warehouses.
+
+### Ex12 – Loops and Random (Monte Carlo Pi Estimation)
+
+Estimate the value of π using the Monte Carlo method for 10, 100, 1000, 10000, and 100000 random points.
+
+### Ex13 – Loops and Lists (Answer Sheet Comparator)
+
+Compare two students' answer sheets against an official answer key and determine who scored higher.
+
+### Ex14 – Functions and Algorithms (CPF Validator)
+
+Validate a CPF string using the official Receita Federal algorithm, checking both verification digits.
+
+### Ex15 – Loops and Conditionals (Fundraising Campaign Manager)
+
+Accumulate donations until a predefined goal is reached or exceeded, then display the total and whether the goal was met or surpassed.
+
+### Ex16 – Functions, Loops and Grid Rendering (Text Adventure Game)
+
+Manage a character's movement on a 20x20 grid with boundary checking, rendering the grid after each command until the player reaches the flag.
