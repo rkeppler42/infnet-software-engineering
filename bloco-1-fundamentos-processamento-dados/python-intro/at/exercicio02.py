@@ -4,4 +4,4 @@ idade = int(input("Qual a idade do paciente?\n> "))
 temperatura_corporal = float(input("Qual a temperatura do paciente?\n> "))
 
 # Saídas
-print(f"Nome: {nome} | Idade: {idade} | Temperatura: {temperatura_corporal}°C"
+print(f"Nome: {nome} | Idade: {idade} | Temperatura: {temperatura_corporal}°C")
