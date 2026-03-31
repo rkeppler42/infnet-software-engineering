@@ -25,6 +25,8 @@ Build a bar chart by unit, a pie chart by class type, and a time series chart by
 ### Ex04 – Executive Dashboard (Page 4)
 Design a final shareable dashboard with at least 2 scorecards, 2 charts, and 2 interactive controls. Configure the report for external sharing.
 
+> 📊 The Looker Studio report is linked directly from the published report: [View Report](https://lookerstudio.google.com/u/0/reporting/a2838285-8eb6-412b-9a2b-dd18949af547/page/UDmtF)
+
 ---
 
 ## Part 2 – SQL
@@ -100,6 +102,8 @@ Construir um gráfico de barras por unidade, um gráfico de pizza por modalidade
 
 ### Ex04 – Dashboard Executivo (Página 4)
 Montar uma página final compartilhável com pelo menos 2 scorecards, 2 gráficos e 2 controles interativos. Configurar o relatório para compartilhamento externo.
+
+> 📊 O relatório do Looker Studio está vinculado pelo link do relatório publicado: [Ver Relatório](https://lookerstudio.google.com/u/0/reporting/a2838285-8eb6-412b-9a2b-dd18949af547/page/UDmtF)
 
 ---
 
