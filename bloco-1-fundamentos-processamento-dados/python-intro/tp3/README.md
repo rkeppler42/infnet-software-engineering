@@ -53,3 +53,61 @@ Evaluate a player's eligibility to pass through a gate by applying a set of arbi
 
 ### Ex16 – Nested Conditionals (KYC Registration System)
 Process a customer registration by applying different validation rules for individuals (CPF) and companies (CNPJ), with fallback paths for incomplete data.
+
+---
+
+# TP3 – Introdução à Programação com Python
+
+Teste de Performance 3. Cobre condicionais, operadores lógicos e estruturas de decisão aninhadas.
+
+---
+
+## Exercícios
+
+### Ex01 – Condicional Simples (Verificação de Idade)
+Verificar se um cliente tem idade legal para concluir uma compra.
+
+### Ex02 – Comparação (Nota do Aluno)
+Determinar se um aluno foi aprovado ou reprovado com base em sua nota final e na nota mínima de aprovação.
+
+### Ex03 – Condicionais Aninhados (Detecção de Febre)
+Classificar a temperatura de um paciente como normal, estado febril ou febre com base em limiares definidos.
+
+### Ex04 – Condicionais Encadeados (Peso do Pacote)
+Verificar se um pacote está dentro do limite de peso, próximo a ele ou acima.
+
+### Ex05 – Busca em Strings e Condicionais (Categorizador de Despesas)
+Classificar uma despesa como Essencial, Investimento ou Lazer com base em palavras-chave na descrição.
+
+### Ex06 – Operadores Lógicos (Desbloqueio de Habilidade)
+Determinar se um personagem de jogo atende aos requisitos mínimos de força e agilidade para desbloquear uma habilidade especial.
+
+### Ex07 – Condicionais Encadeados (Desconto Progressivo)
+Calcular o preço final de uma compra aplicando desconto progressivo e desconto adicional opcional para pagamentos com cartão.
+
+### Ex08 – Operadores Lógicos (Triagem de Candidatos)
+Determinar se um candidato é elegível para entrevista com base em anos de experiência, escolaridade e nível em Python.
+
+### Ex09 – Condicionais Aninhados (Jogo de Aventura em Texto)
+Simular um jogo de exploração em uma caverna com caminhos ramificados, onde cada caminho exige entradas diferentes e leva a resultados distintos.
+
+### Ex10 – Condicionais Encadeados (Pontuação e Status no Jogo)
+Calcular a pontuação final de um jogador usando regras por faixas para inimigos, objetivos, mortes e tempo, e determinar se ele alcança o status de Jogador Elite.
+
+### Ex11 – Operadores Lógicos (Classificador de Força de Senha)
+Classificar uma senha como Segura ou Fraca com base em comprimento, caracteres especiais e presença de dígitos.
+
+### Ex12 – Condicionais Encadeados (Sistema de Alerta Meteorológico)
+Determinar o nível de alerta meteorológico de uma região com base em velocidade do vento, temperatura, umidade e tipo de precipitação.
+
+### Ex13 – Condicionais (Calculadora Básica)
+Realizar uma das quatro operações aritméticas em dois números com base na entrada do usuário, com proteção contra divisão por zero.
+
+### Ex14 – Operadores Lógicos (Compatibilidade de Tipo Sanguíneo)
+Verificar se um doador de sangue é compatível com um receptor com base no tipo sanguíneo (ABO) e no fator Rh.
+
+### Ex15 – Condicionais Complexos (O Portão do Ancião)
+Avaliar a elegibilidade de um jogador para passar por um portão aplicando um conjunto de regras aninhadas precisas sobre quatro resultados de provas.
+
+### Ex16 – Condicionais Aninhados (Sistema de Cadastro KYC)
+Processar o cadastro de um cliente aplicando regras de validação diferentes para pessoas físicas (CPF) e jurídicas (CNPJ), com caminhos alternativos para dados incompletos.
