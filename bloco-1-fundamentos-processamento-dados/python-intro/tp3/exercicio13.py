@@ -1,23 +1,12 @@
-velocidade_do_vento = int(input("Qual a velocidade do vento?\n> "))
-temperatura = int(input("Qual a temperatura em graus Celsius?\n> "))
-umidade_do_ar = int(input("Qual a umidade do ar?\n> "))
-tipo_de_precipitacao = input("Qual o tipo de precipitação? ('Chuva', 'Neve', 'Granizo' ou 'Nenhum')").lower()
+prova_a = float(input("Resultado da Prova A:\n> "))
+prova_b = float(input("Resultado da Prova B:\n> "))
+prova_c = int(input("Resultado da Prova C:\n> "))
+prova_d = float(input("Resultado da Prova D:\n> "))
 
-if velocidade_do_vento > 80 or (tipo_de_precipitacao == "granizo" and velocidade_do_vento > 60):
-  print("ALERTA VERMELHO (Perigo Iminente)")
-elif (temperatura < -10
-      or (tipo_de_precipitacao == "neve" and velocidade_do_vento > 40)
-      or (tipo_de_precipitacao == "neve" and temperatura < 0)
-      or velocidade_do_vento > 50):
-  print("ALERTA LARANJA (Cuidado)")
-elif ((tipo_de_precipitacao == "chuva" and velocidade_do_vento > 40 and umidade_do_ar > 90)
-      or velocidade_do_vento > 20
-      or umidade_do_ar > 80): 
-  print("ALERTA AMARELO (Atenção)")
-elif ((tipo_de_precipitacao == "nenhum" and temperatura < 5 and velocidade_do_vento > 30)
-      or temperatura < 10
-      or umidade_do_ar > 75
-      or tipo_de_precipitacao == "chuva"):
-  print("ALERTA AZUL (Observação)")
-else:
-  print("SEM ALERTA")
+condicao_a = 15 < prova_a < 45 and prova_b <= 60
+condicao_b = prova_c == 1 or (prova_c == 0 and prova_a < 20 and prova_b < 30 and prova_d == 10)
+condicao_c = prova_d >= 5 or (prova_d < 5 and (prova_a == 10 or prova_a == 40) and prova_b == 0)
+
+aprovado = condicao_a and condicao_b and condicao_c
+
+print("APROVADO" if aprovado else "REPROVADO")
