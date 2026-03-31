@@ -13,7 +13,7 @@ SQL, and data visualization.
 | Course | Folder | Status |
 |---|---|---|
 | Introdução à Programação com Python | [`python-intro/`](./python-intro/) | ✅ Completed |
-| Introdução à Visualização de Dados e SQL | [`sql-data-viz/`](./sql-data-viz/) | 🟡 In progress |
+| Introdução à Visualização de Dados e SQL | [`sql-data-viz/`](./sql-data-viz/) | ✅ Completed |
 | SQL e Modelagem Relacional | [`sql-relational-modeling/`](./sql-relational-modeling/) | ⏳ Upcoming |
 | Python para Processamento de Dados | [`python-data-processing/`](./python-data-processing/) | ⏳ Upcoming |
 | Projeto de Bloco | [`projeto-bloco/`](./projeto-bloco/) | 🟡 In progress |
@@ -67,7 +67,7 @@ SQL e visualização de dados.
 | Disciplina | Pasta | Status |
 |---|---|---|
 | Introdução à Programação com Python | [`python-intro/`](./python-intro/) | ✅ Concluída |
-| Introdução à Visualização de Dados e SQL | [`sql-data-viz/`](./sql-data-viz/) | 🟡 Em andamento |
+| Introdução à Visualização de Dados e SQL | [`sql-data-viz/`](./sql-data-viz/) | ✅ Concluída|
 | SQL e Modelagem Relacional | [`sql-relational-modeling/`](./sql-relational-modeling/) | ⏳ Em breve |
 | Python para Processamento de Dados | [`python-data-processing/`](./python-data-processing/) | ⏳ Em breve |
 | Projeto de Bloco | [`projeto-bloco/`](./projeto-bloco/) | 🟡 Em andamento |
