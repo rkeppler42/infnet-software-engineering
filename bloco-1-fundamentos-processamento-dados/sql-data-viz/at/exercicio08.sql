@@ -8,7 +8,7 @@ FROM
     filmes
 WHERE
     duracao_min >= 80
-    AND (classificacao = 'Livre' OR classificacao = '12')
+    AND (classificacao = 'Livre' OR classificacao = '12 anos')
 GROUP BY 
     genero
 HAVING 
