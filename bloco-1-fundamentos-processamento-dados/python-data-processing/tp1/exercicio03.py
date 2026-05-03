@@ -1,0 +1,5 @@
+campos = input().split(";")
+print(len(campos))
+print(campos[0])
+print(campos[1])
+print(campos[2])
