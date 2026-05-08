@@ -14,8 +14,8 @@ SQL, and data visualization.
 |---|---|---|
 | Introdução à Programação com Python | [`python-intro/`](./python-intro/) | ✅ Completed |
 | Introdução à Visualização de Dados e SQL | [`sql-data-viz/`](./sql-data-viz/) | ✅ Completed |
-| SQL e Modelagem Relacional | [`sql-relational-modeling/`](./sql-relational-modeling/) | ⏳ Upcoming |
-| Python para Processamento de Dados | [`python-data-processing/`](./python-data-processing/) | ⏳ Upcoming |
+| SQL e Modelagem Relacional | [`sql-relational-modeling/`](./sql-relational-modeling/) | 🟡 In progress |
+| Python para Processamento de Dados | [`python-data-processing/`](./python-data-processing/) | 🟡 In progress |
 | Projeto de Bloco | [`projeto-bloco/`](./projeto-bloco/) | 🟡 In progress |
 
 ---
